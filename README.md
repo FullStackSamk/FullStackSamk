@@ -22,7 +22,7 @@ I'm a seasoned Full-Stack Developer with a passion for building scalable web app
 
 - At **NielsenIQ**, I developed SaaS products that enabled big retail chains to make data-informed decisions, driving growth and profitability.
 - At **Intact Insurance**, I enhanced the online insurance experience, leading to a smoother user journey and higher conversion rates.
-- At **Cheeky Monkey Media**, I worked on projects that demanded AODA compliance and high standards of web responsiveness and accessibility.
+- At **Digital Echidna**, I worked on projects that demanded AODA compliance and high standards of web responsiveness and accessibility.
 
 ## Let's Connect 🌐
 
