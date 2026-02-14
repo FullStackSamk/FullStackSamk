@@ -8,7 +8,7 @@ I'm a seasoned Full-Stack Developer with a passion for building scalable web app
 
 🌐 I'm well-versed in modern frameworks like Angular, React, and Vue.js, and I love crafting intuitive interfaces that resonate with users.
 
-💼 Currently, I'm a Senior Software Engineer at NielsenIQ, where I blend design, technology, and strategy to deliver outstanding web solutions.
+💼 Currently, I'm a Senior Fullstack Software Engineer at Walmart Canada, where I blend design, technology, and strategy to deliver outstanding web solutions.
 
 ## Expertise ✨
 
